@@ -1,0 +1,16 @@
+Medical Supply Chain Agent
+
+Purpose: Optimizes hospital supply inventory.
+
+Agent Tasks
+
+Forecasts supply usage
+
+Detects shortages
+
+Suggests supplier alternatives
+
+Tracks expiration dates
+
+Value
+Reduces waste and stockouts.
